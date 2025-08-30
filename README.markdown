@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-![Amigo Secreto Banner](img/amigo-secreto.png)Amigo Secreto es una aplicación web que permite a los usuarios organizar un sorteo de "Amigo Secreto" de manera sencilla y divertida. Los usuarios pueden agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto". La aplicación está diseñada con una interfaz amigable y accesible, utilizando HTML, CSS y JavaScript.
+![Amigo Secreto Banner](img/amigo-secreto.png)<br>Amigo Secreto es una aplicación web que permite a los usuarios organizar un sorteo de "Amigo Secreto" de manera sencilla y divertida. Los usuarios pueden agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto". La aplicación está diseñada con una interfaz amigable y accesible, utilizando HTML, CSS y JavaScript.
 
 ## Características
 
